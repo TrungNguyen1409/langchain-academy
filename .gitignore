@@ -1,5 +1,5 @@
 .ipynb_checkpoints/
-
+.langgraph_api
 .idea/
 
 # Byte-compiled / optimized / DLL files
@@ -219,3 +219,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 module-6/deployment/docker-compose.yml
+.env
